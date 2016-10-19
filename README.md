@@ -1,5 +1,8 @@
 # OOAD-WEEK08
 
+ภาพที่ 1 
+![](http://www.plantuml.com/plantuml/img/LOzD2eD034RtSueixS8Um4Nn3Zr1YAaEyqic0vNYtJiYLhfylCT7CXP5qHgyyVnIq0HYvqLXiiAaDaLJd8qP1GDa98SpFtNr3BisI9e4g1PDWUL4p-BCxZ7EhQI5oQMgy37mQw7leJlDhOaBuFw0BkCQE3OOm4RoTUAzMTZdmr_r0FnMZbFv7sdxno6R6Pjj7tu1)
+
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
