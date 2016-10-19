@@ -1,7 +1,20 @@
 # OOAD-WEEK08
+## Homework Use Case Diagram 5 picture 
+ภาพที่ 1 สัตว์บก
+![](http://www.plantuml.com/plantuml/img/TSun3e0W3030dLSmoi0760nVgLAHf80f9NnVPMU_uNmJOEcPb1DanYQSW3IKb86SjeINs5rleKQZ5uPJl2SwGPQeFrFKOHOWr55-SY2mKHvB-5Ol)
 
-ภาพที่ 1 
-![](http://www.plantuml.com/plantuml/img/LOzD2eD034RtSueixS8Um4Nn3Zr1YAaEyqic0vNYtJiYLhfylCT7CXP5qHgyyVnIq0HYvqLXiiAaDaLJd8qP1GDa98SpFtNr3BisI9e4g1PDWUL4p-BCxZ7EhQI5oQMgy37mQw7leJlDhOaBuFw0BkCQE3OOm4RoTUAzMTZdmr_r0FnMZbFv7sdxno6R6Pjj7tu1)
+ภาพที่ 2 คนขับแท๊กซี่
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8ApizDpaZCj5BGrRLJq4WfoYnBrUIo0jDGiPB4YanDBeVKl1IW1W00)
+
+ภาพที่ 3 ประเภทของสี
+![](http://www.plantuml.com/plantuml/img/9Omn2e0m303tl2AZ7Jhe0wHVAMtKG6maHlo-qcx77LowFPi_fm08ROwkQBmVZfMDYhCsA2fgCyQuujGPBsg59OooZF9c9-iY02HgzNz-)
+
+ภาพที่ 4 ร้านกาแฟ
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT8eIKpAITLKiD7JKx1ApazBIqrLACx8Bx3Yqe3mW5AwQ38EgNafGBq0)
+
+ภาพที่ 5 ร้านก๋ยวเตี๋ยว
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAoyzFoKbLACx8Bx1IqDMrKz20YUIN5cYYomEb2_ABiXKWeffS3gbvAK1Z0000)
+
 
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
