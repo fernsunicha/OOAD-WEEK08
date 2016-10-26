@@ -13,17 +13,47 @@ usecase (pig) as UC4
 
 ![](https://github.com/fernsunicha/OOAD-WEEK08/blob/master/homework/1.png?raw=true)
 
-ภาพที่ 2 คนขับแท๊กซี่
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8ApizDpaZCj5BGrRLJq4WfoYnBrUIo0jDGiPB4YanDBeVKl1IW1W00)
+ภาพที่ 2 
 
-ภาพที่ 3 ประเภทของสี
-![](http://www.plantuml.com/plantuml/img/9Omn2e0m303tl2AZ7Jhe0wHVAMtKG6maHlo-qcx77LowFPi_fm08ROwkQBmVZfMDYhCsA2fgCyQuujGPBsg59OooZF9c9-iY02HgzNz-)
+@startuml
 
-ภาพที่ 4 ร้านกาแฟ
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT8eIKpAITLKiD7JKx1ApazBIqrLACx8Bx3Yqe3mW5AwQ38EgNafGBq0)
+:dream:
+:non: as Men2  
+actor jj
+actor :tong: as Men4
 
-ภาพที่ 5 ร้านก๋ยวเตี๋ยว
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAoyzFoKbLACx8Bx1IqDMrKz20YUIN5cYYomEb2_ABiXKWeffS3gbvAK1Z0000)
+@enduml
+![](https://github.com/fernsunicha/OOAD-WEEK08/blob/master/homework/2.png?raw=true)
+
+ภาพที่ 3 
+
+@startuml
+
+
+somchai --> (name) 
+
+:sompong: ---> (name) 
+
+@enduml
+![](https://github.com/fernsunicha/OOAD-WEEK08/blob/master/homework/3.png?raw=true)
+
+ภาพที่ 4
+
+@startuml
+:color: --> (pink)
+:color: -> (yellow)
+@enduml
+![](https://github.com/fernsunicha/OOAD-WEEK08/blob/master/homework/4.png?raw=true)
+
+ภาพที่ 5 
+
+@startuml
+:class: -left-> (chair) 
+:class: -right-> (table) 
+:class: -up-> (student)
+:class: -down-> (teacher)
+@enduml
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9ApaaiBhPIqCr9JIlHjLFGICv8p2pIL41856McPu1bIXAJSbAHPKeBGCB59QKfgNabcWZnbFpoFB26rCJaZDGYJIw7rBmKe6K0)
 
 
 ## Use Case Diagram (ภาษาไทย)
