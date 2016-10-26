@@ -1,7 +1,17 @@
 # OOAD-WEEK08
 ## Homework Use Case Diagram 5 picture 
-ภาพที่ 1 สัตว์บก
-![](http://www.plantuml.com/plantuml/img/TSun3e0W3030dLSmoi0760nVgLAHf80f9NnVPMU_uNmJOEcPb1DanYQSW3IKb86SjeINs5rleKQZ5uPJl2SwGPQeFrFKOHOWr55-SY2mKHvB-5Ol)
+ภาพที่ 1
+
+@startuml
+
+(dog)
+(cat) as (UC2)  
+usecase fish
+usecase (pig) as UC4
+
+@enduml
+
+![](https://github.com/fernsunicha/OOAD-WEEK08/blob/master/homework/1.png?raw=true)
 
 ภาพที่ 2 คนขับแท๊กซี่
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8ApizDpaZCj5BGrRLJq4WfoYnBrUIo0jDGiPB4YanDBeVKl1IW1W00)
